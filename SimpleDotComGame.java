@@ -1,3 +1,5 @@
+package dotCom;
+
 class SimpleDotComGame{
 	public static void main(String[] args){
 		int numOfGuess = 0;

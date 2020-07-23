@@ -1,3 +1,5 @@
+package dotCom;
+
 public class SimpleDotCom{
 	int[] locationCells;
 	int numOfHits = 0;
